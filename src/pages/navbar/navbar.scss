@@ -1,0 +1,34 @@
+body{
+    background-color:ffffff ;
+}
+.nav{
+    height: 5vh;
+    display: flex;
+   
+}
+.navmenu{
+    display: flex;
+    margin-left:60% ;
+    font-size: large;
+    // display: grid;
+    column-gap: 20px;
+    font-weight:500;
+    // align-items: center;
+}
+.navbut{
+    background-color: red;
+    // border-radius:15px;
+    margin-top: 10px;
+    height:46px ;
+    width: 119px;
+    color: white;
+}
+img{
+    height: 40px;
+    width: 40px;
+}
+.nav-logo{
+    display: flex;
+   font-size: 2rem;
+   margin-left: 50px;
+}
