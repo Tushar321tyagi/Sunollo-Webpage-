@@ -34,6 +34,40 @@ const BackgroundContainer = () => {
         <img src={img3} alt="" className='img3'/>
       </div>
     </section>
+    <section className='lower'>
+     <h1>Our Track Record</h1>
+     <div className='lower1'>
+     <span className='lower2'>
+      <h1>80000+</h1>
+      <p>Solar panells installed.</p>
+     </span>
+     <span className='lower2'>
+      <h1>52 GWH</h1>
+      <p>Energy Produced</p>
+     </span>
+     <span className='lower2'>
+      <h1>12000+</h1>
+      <p>Household Served</p>
+     </span>
+     </div>
+    </section>
+    <section className='bottom1'>
+    <p className='our'>Our purpose </p>
+      <div className='bottom'>
+        <h2 className=''>What if clean energy ☀️ <br />could power our planet <br /> for free?</h2>
+      </div>
+     <p className='parah'>
+     At Sunollo™, our purpose is to lead the charge in driving the clean energy <br />
+     revolution, starting with the homes and communities we serve.
+     <br /><br />
+     We believe in empowering individuals and businesses to embrace solar energy, <br />
+     not only to reduce their carbon footprint but also to unlock new possibilities for <br />
+     sustainable living.
+     <br /><br />
+     By harnessing the power of the sun, we aim to inspire positive change and create a <br />
+     legacy of environmental stewardship for generations to come.
+     </p>
+    </section>
     </>
   )
 }
